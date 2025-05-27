@@ -1,5 +1,3 @@
-# engineer_example
-This repository its about example of data ingestions
 # Cria um script temporário no Cloud Shell
 cat <<'EOF' > listar_gcp_funcoes.sh
 #!/bin/bash
